@@ -1,4 +1,4 @@
-# README - Optimizing Food Delivery Logistics with Machine Learning
+# Optimizing Food Delivery Logistics with Machine Learning
 
 ## Overview
 This assignment focuses on addressing key logistical challenges in food delivery using data science and machine learning techniques. By leveraging a real-world dataset and applying predictive modeling, cluster analysis, and optimization methods, the goal is to provide actionable insights to improve delivery operations and enhance customer satisfaction.
